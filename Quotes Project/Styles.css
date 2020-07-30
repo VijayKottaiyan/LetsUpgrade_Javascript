@@ -1,0 +1,51 @@
+.body{
+    background-color: #bfbfbf;
+}
+
+.center{
+    position: absolute; 
+    left: 350px; 
+    top: 250px; 
+    margin: auto; 
+    width: 50%;
+    border: 2px solid black;
+    padding: 10px;
+    text-align: center;
+}
+
+#line{
+    border: 1px solid black;
+    border-radius: 2px;
+}
+
+.text{
+    display: inline;
+    font-size: larger;
+    font-weight: 700;
+    font-style: oblique;
+}
+
+#heading{
+    font-style: oblique;
+}
+
+#bottom{
+    /* position: absolute;
+    bottom: 55px;
+    font-size: x-large;
+    font-weight: 500;
+    font-style: oblique; */
+    position: absolute;
+    bottom: 1px;
+    font-size: x-large;
+    font-weight: 800;
+    font-style: oblique;
+}
+
+#truth{
+    position: absolute;
+    bottom: 1px;
+    font-size: x-large;
+    font-weight: 800;
+    font-style: oblique;
+}
