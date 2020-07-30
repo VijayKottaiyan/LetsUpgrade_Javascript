@@ -14,7 +14,7 @@ btn2.onclick= ()=>{
 
 bottom.onmouseover= ()=>{
     document.getElementById('bottom').innerText='';
-    document.getElementById('truth').innerHTML=`I thank LetsUpgrade all the effort they put in to educate and share knowledge to all. Special thanks to Prasad Sir for inspiring and teaching JS and Lets Keep Upgrading. To be Honest I used google for CSS`;
+    document.getElementById('truth').innerHTML=`I thank LetsUpgrade for all the effort they put in to educate and share knowledge to all. Special thanks to Prasad Sir for inspiring and teaching JS and Lets Keep Upgrading. To be Honest I used google for CSS`;
 }
 
 bottom.onmouseout= ()=>{
