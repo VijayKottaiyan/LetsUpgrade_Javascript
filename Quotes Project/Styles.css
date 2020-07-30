@@ -29,20 +29,7 @@
     font-style: oblique;
 }
 
-#bottom{
-    /* position: absolute;
-    bottom: 55px;
-    font-size: x-large;
-    font-weight: 500;
-    font-style: oblique; */
-    position: absolute;
-    bottom: 1px;
-    font-size: x-large;
-    font-weight: 800;
-    font-style: oblique;
-}
-
-#truth{
+.reveal{
     position: absolute;
     bottom: 1px;
     font-size: x-large;
